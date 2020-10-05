@@ -1,0 +1,42 @@
+//Question4
+import java.util.Scanner; 
+public class Question4
+{
+   public static void main(String args[])
+   {
+      Scanner sc=new Scanner(System.in); //Scanner class in java
+      System.out.print("Enter the rows you want: ");
+      int rows=sc.nextInt();//get input from user
+      System.out.println("");
+      for(int i=1; i<=rows; i++)                    //i=1 1<9
+      {
+         for(int j=0; j<rows-i; j++)                //j=0 0<9-1=8   //j=1 1<9-2
+         {
+           System.out.print(" ");                   //8 spaces      //7 spaces
+         }
+         for(int k=1; k<i; k++)                     //k=1 
+         {
+         System.out.print(k); 
+         }
+         for(int l=i; l>=1; l--)
+         {
+         System.out.print(l); 
+         }
+       System.out.print("\n");
+      }
+    }
+}
+//Output
+/*
+Enter the rows you want: 9
+
+        1
+       121
+      12321
+     1234321
+    123454321
+   12345654321
+  1234567654321
+ 123456787654321
+12345678987654321
+*/

@@ -1,0 +1,39 @@
+//Question2
+import java.util.Scanner; 
+public class Question2
+{
+   public static void main(String args[])
+   {
+      Scanner sc=new Scanner(System.in); //Scanner class in java
+      System.out.print("Enter the rows you want");
+      int rows=sc.nextInt();
+      System.out.println("");
+      for(int i=1; i<=rows; i++)        //i=1 1<=9                  //i=2   
+      { 
+        for(int j=0; j<rows-i; j++)     //j=0 j<9-1=8               //j=0 j<9-2=7 
+        {
+         System.out.print(" ");         //8 spaces                  //7 spaces
+        }
+       for(int k=1; k<=i; k++)          //k=1 1<=1  //k=2 2<=1      //k=1 1<=2  //k=2 2=2
+        {
+         System.out.print(k+" ");      //1                          //1         //2
+        }
+        System.out.print("\n");        //nxtln                      //ln
+        
+      }                                //i=2                        //i=3
+    }
+}
+//Output
+/*
+Enter the rows you want9
+
+        1 
+       1 2 
+      1 2 3 
+     1 2 3 4 
+    1 2 3 4 5 
+   1 2 3 4 5 6 
+  1 2 3 4 5 6 7 
+ 1 2 3 4 5 6 7 8 
+1 2 3 4 5 6 7 8 9 
+*/
