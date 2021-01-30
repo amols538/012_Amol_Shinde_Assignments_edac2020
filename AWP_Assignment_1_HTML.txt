@@ -1,0 +1,238 @@
+<html>
+    <head>
+        <title>
+            Resume
+        </title>
+        
+        <style>
+            td{ border: 1px solid black;}
+            th{ border: 1px solid black;}
+            
+            body{background-image: url('white.jpg');}
+            body{text-decoration-color: aliceblue;}
+        </style>
+    </head>
+
+    <body style="background-color: rgb(239, 239, 236);">
+
+        <h1 style="text-align:center;">
+            Resume
+        </h1>
+
+        <table style="border: 1px solid black float: left;"><br>
+            <thead style="border: 1px solid black;">
+            
+                <tr>
+                    <th>
+                        Amol Shinde
+
+                    </th>
+                        
+                    </tr>
+                    <tr>
+                        <td>
+                            M.Tech, Power system Engineering
+
+                        </td>
+                        <tr>
+                            <td>
+                                Contact: 9890242581
+    
+                            </td>
+
+                        </tr>
+                        <tr>
+                            
+                        <td>
+                            email : amols538@gmaol.com
+
+                        </td>
+
+                        </tr>                  
+                    
+               
+                </thead >
+
+        </table>
+        <br><br><br><br><br><br><br>
+        <br>
+        <br>
+        <h2 style="font-size: medium;"> CAREER OBJECTIVE </h2>
+         <p>
+             To work in a firm with a professional work driven environment where I can utilize and apply my knowledge, skills which would enable me as a graduate to grow while fulfilling organizational goals.
+         </p>
+    
+
+        <div style="align-content: center;" >
+
+            <h3 style="font-size: medium;"> BASIC ACADEMIC CREDENTIALS </h3>
+            <table style="border: 1px solid white; margin: 0% auto">
+                <thead style="border: 1px solid white;">
+            
+                <tr>
+                    <Th>
+                        Qualification
+                    </Th>
+                    <th>
+                        Board/University
+                    </th>
+                    <th>
+                        Year
+                    </th>
+                    <th>
+                        Percentage
+                    </th>
+                </tr>
+                </thead >
+                <tbody >
+                    <tr>
+                        <td >
+                            M.Tech(Electrical Engg.)
+                        </td>
+                        <td>
+                            RIT 
+                        </td>
+                        <td>
+                            2015-2017 
+                        </td>
+                        <td>
+                            7.78 
+                        </td>
+                    </tr>
+                </tbody>
+                <tbody >
+                    <tr>
+                        <td >
+                            B.E.(Electrical Engg.)
+                        </td>
+                        <td>
+                            Mumbai University 
+                        </td>
+                        <td>
+                            2011-2015 
+                        </td>
+                        <td>
+                            70%
+                        </td>
+                    </tr>
+                </tbody>
+                <tbody >
+                    <tr>
+                        <td >
+                           HSC
+                        </td>
+                        <td>
+                            Maharashtra Board
+                        </td>
+                        <td>
+                            2011 
+                        </td>
+                        <td>
+                            72%
+                        </td>
+                    </tr>
+                </tbody>
+                <tbody >
+                    <tr>
+                        <td >
+                           SSC
+                        </td>
+                        <td>
+                            Maharashtra Board
+                        </td>
+                        <td>
+                            2009 
+                        </td>
+                        <td>
+                            88%
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+
+        </div>
+        <h3 style="font-size: medium;"> PROJECTS REPORT </h3>
+        <li style="font-weight: bold;">M.Tech Project</li>
+        <p2> Title: Energy saving through Air compressors system automation </p2><br>
+        <p4> Sponsored By: Oriental Containers Ltd, Murbad, Maharashtra</p4><br>
+        <p5> Supervisor: H.T.Jadhav, RIT, Rajaramnagar</p5><br>
+        <p3>Abstract: In most industries compressed air is used for running a simple air tool or for complicated
+            tasks such as pneumatic controls. Air power is provided by the air compressor only so it is key
+            equipment to provide air power.one of the big problem associated with compressor system is pressure
+            fluctuation. In order to reduce the energy consumption and obtain safe running, A PLC with touch
+            screen is used for monitoring the status of multiple compressors.</p3><br><br>
+
+        <li style="font-weight: bold;">B.E. Project</li>
+        <p0> Title: Buoyant Airborne Turbine (BAT) </p0>
+        <p1>Abstract: An airborne wind turbine is a design concept for a wind turbine with a rotor supported in
+            the air without a tower, thus benefiting from more mechanical and aerodynamic options, the higher
+            velocity and persistence of wind at high altitudes, while avoiding the expense of tower construction
+            Airborne wind turbines may operate in low or high altitudes; they are part of a wider class of
+            Airborne Wind Energy Systems (AWES) addressed by high-altitude wind power and crosswind kite
+            
+            power. When the generator is on the ground, then the tethered aircraft need not carry the generator
+            mass or have a conductive tether.</p1>
+
+        <h4 style="font-size: medium; font-weight: bold;" >SOFTWARE KNOWLEDGE </h4>
+        <li> Core Java </li>
+        <li> Data Structures </li>
+        <li> Python </li>
+        <li> MySQL</li>
+        <li> JavaScript</li>
+        <li> C </li>
+        <li> C++ </li><br>
+
+        <h5 style="font-size: medium;">WORKING EXPERIENCE</h5>
+        <p6> Organization: Katalyst Technologies, Pune</p6><br>
+        <p7> Duration: Oct 2018 to jan 2020</p7><br>
+        <p8> Designation: Junior Wiring Design Engineer</p8><br>
+        <p9> 
+            <li>Assigned responsibilities of supporting engineering staff in revision requests and developing
+                design specifications</li>
+            <li>Handled responsibilities of analyzing wiring and component parts of vehicle Crane – Elliott
+                Company, US</li>
+            <li>Assigned the tasks of developing harness design in Auto CAD electrical</li>
+            <li>Handled the tasks of preparing engineering documentation under the instructions of senior staff</li>
+        </p9>
+
+        <h6 style="font-size: medium;">ACHIEVEMENTS</h6>
+        <li> <a href="https://scholar.google.com/citations?user=6Kr8dYYAAAAJ&hl=en">Google Scholer</a></li> 
+        <li> <a href="https://ieeexplore.ieee.org/abstract/document/8074266">Published IEEE paper</a></li>
+        <li>Secured 1<sup>st</sup> Rank in SSC Examination of School</li>
+        <br>
+
+        <h7 style="font-size: medium; font-weight: bold;">PERSONAL DETAILS</h7><br><br>
+
+        
+            
+                Father's Name
+            
+            <li> Father's Name :- Ashok Shinde</li>
+            <li> Permanent Address    :- 105/B, Rahul Nagar, Ambernath-East</li>
+            <li> Date of Birth        :- 15<sup>th</sup>,Aug 1993</li>
+            <li> Lanuage Known        :- English, Hindi, Marathi</li>
+            <li> Maritial status      :- Never Married</li>
+            <li> Interest & Hobbies   :- Play Football</li>
+            <li> Nationality          :- Indian</li>
+            <br><br>
+
+       
+
+
+        <h8 style="font-size: medium; font-weight: bold;">DECLARATION</h8><br>
+        <p10> I do hereby declare that the above information is true to the best of my knowledge.</p10><br><br>
+
+        <p style="text-align: left;">Place :</p>
+        <p style="text-align: left;">Date :</p>
+        <p style="text-align: right;">Amol Shinde</p><br>
+        <p style="text-align: right;">(Signature))</p><br>
+
+
+       
+
+
+
+
+
+    </body>
+</html>
